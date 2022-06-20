@@ -1,5 +1,5 @@
 {
-  "name": "desktop",
+  "name": "testapp",
   "scripts": {
     "tauri": "tauri"
   },
